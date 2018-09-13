@@ -1,5 +1,5 @@
 # Messenger
-A Chat app build on Firebase realmDatabase.
+A Chat app build on Firebase.
 
 + ### Screenshots
 <img src="https://raw.githubusercontent.com/Dex1019/Messenger/master/screenshots/1.png" width="200" height="300"/>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Dex1019/Messenger/master/screenshots/2.png" width="200" height="300"/>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
